@@ -9,7 +9,7 @@ USER=dhcpstatic
 
 cd $GIT_REPO
 
-su -c "git pull" $USER
+su -c "git pull -q" $USER
 
 if ! cmp $GIT_REPO/static.conf /etc/dhcp/static.conf >/dev/null 2>&1 ;
 then

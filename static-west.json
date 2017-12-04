@@ -1,0 +1,12 @@
+"reservations": [
+    {
+        "hw-address": "00:24:21:2e:63:f9",
+        "ip-address": "10.112.96.21",
+        "hostname": "cloud"
+    },
+    {
+        "hw-address": "00:0d:b9:3f:7b:f6",
+        "ip-address": "10.112.96.24",
+        "hostname": "apuschnacke"
+    }
+]

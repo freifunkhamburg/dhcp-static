@@ -1,16 +1,21 @@
-Statische IPv4-Vergabe im FFHH-DHCP
+Statische IPv4-Vergabe
 ===================================
 
-[Subnetze](http://wiki.freifunk.net/Freifunk_Hamburg/%C3%9Cber#Subnetze)
+Folgende Netze werden in den einzelnen Domänen des Hamburger Freifunknetzes genutzt:
 
-*Statische IPs müssen in folgenden Bereichen sein sein:*
-- static-sued.json zwischen 10.112.64.0/21 10.112.64.1-10.112.71.200
-- static-west.json zwischen 10.112.96.0/21 10.112.96.1-10.112.103.200
-- static-nowe.json zwischen 10.112.192.0/21 10.112.192.1-10.112.199.200
-- static-ost.json zwischen 10.112.224.0/21 10.112.224.1-10.112.231.200
-*Die 10.112.0.1 ist für node.ffhh reserviert*
+- Süd (sued)        10.112.64.0/19
+- West (west)       10.112.96.0/19
+- Nordwest (nowe)   10.112.192.0/19
+- Ost (ost)         10.112.224.0/19
 
-Bitte Pull-Requests schicken!
+Statische IPs müssen in folgenden Bereichen sein sein:
+
+- Süd (sued)        10.112.64.2 bis 10.112.64.200
+- West (west)       10.112.96.2 bis 10.112.96.200
+- Nordwest (nowe)   10.112.192.2 bis 10.112.192.200
+- Ost (ost)         10.112.224.2 bis 10.112.224.200
+
+Bitte Pull-Requests anlegen!
 -----------------------------
 
-Wenn ihr auch statische IPs an eure MAC gebunden haben wollt, macht einen fork, fuegt euch in die entsprechende .json hinzu (nach IP sortiert!) und macht einen pull-request.
+Wenn ihr eine statische IP an eure MAC gebunden haben wollt, macht einen Fork, fügt einen entsprechenden Eintrag in der passenden .json-Datei ein (nach IP sortiert!) und erstellt einen Pull-Request.

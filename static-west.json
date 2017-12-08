@@ -10,6 +10,16 @@
         "hostname": "girl"
     },
     {
+        "hw-address": "C4:E9:84:99:A4:2E",
+        "ip-address": "10.112.96.4",
+        "hostname": "bb-werkhof-00-cpe5"
+    },
+    {
+        "hw-address": "C4:E9:84:99:9E:B4",
+        "ip-address": "10.112.96.4",
+        "hostname": "bb-werkhof-18-cpe5"
+    },
+    {
         "hw-address": "24:A4:3C:E6:74:7A",
         "ip-address": "10.112.96.10",
         "hostname": "altona-nano-m5"

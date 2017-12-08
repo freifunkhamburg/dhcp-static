@@ -11,12 +11,12 @@
     },
     {
         "hw-address": "C4:E9:84:99:A4:2E",
-        "ip-address": "10.112.96.4",
+        "ip-address": "10.112.96.5",
         "hostname": "bb-werkhof-00-cpe5"
     },
     {
         "hw-address": "C4:E9:84:99:9E:B4",
-        "ip-address": "10.112.96.5",
+        "ip-address": "10.112.96.6",
         "hostname": "bb-werkhof-18-cpe5"
     },
     {

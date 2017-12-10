@@ -1,12 +1,12 @@
 "reservations": [
     {
         "hw-address": "b8:27:eb:0c:5d:29",
-        "ip-address": "10.112.64.1",
+        "ip-address": "10.112.64.2",
         "hostname": "Martin-Sued1"
     },
     {
         "hw-address": "b8:27:eb:59:08:7c",
-        "ip-address": "10.112.64.2",
+        "ip-address": "10.112.64.3",
         "hostname": "Martin-Sued2"
     }
 ]

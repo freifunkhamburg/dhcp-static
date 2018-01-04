@@ -8,5 +8,15 @@
         "hw-address": "b8:27:eb:59:08:7c",
         "ip-address": "10.112.64.3",
         "hostname": "Martin-Sued2"
+    },
+    {
+        "hw-address": "00:90:f5:c9:6b:4a",
+        "ip-address": "10.112.64.4",
+        "hostname": "Martin-Sued3"
+    },
+    {
+        "hw-address": "ac:72:89:ac:dc:44",
+        "ip-address": "10.112.64.5",
+        "hostname": "Martin-Sued4"
     }
 ]

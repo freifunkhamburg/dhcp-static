@@ -48,5 +48,15 @@
         "hw-address": "00:0d:b9:3f:7b:f6",
         "ip-address": "10.112.96.24",
         "hostname": "apuschnacke"
+    },
+    {
+        "hw-address": "e4:95:6e:45:6a:04",
+        "ip-address": "10.112.96.25",
+        "hostname": "hoerstation1"
+    },
+    {
+        "hw-address": "e4:95:6e:45:6a:97",
+        "ip-address": "10.112.96.26",
+        "hostname": "hoerstation2"
     }
 ]

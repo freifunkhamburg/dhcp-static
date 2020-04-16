@@ -45,6 +45,11 @@
         "hostname": "cloud"
     },
     {
+        "hw-address": "70:85:c2:23:d4:ae",
+        "ip-address": "10.112.96.23",
+        "hostname": "speicher"
+    },
+    {
         "hw-address": "00:0d:b9:3f:7b:f6",
         "ip-address": "10.112.96.24",
         "hostname": "apuschnacke"

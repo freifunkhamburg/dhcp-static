@@ -18,5 +18,30 @@
         "hw-address": "ac:72:89:ac:dc:44",
         "ip-address": "10.112.64.5",
         "hostname": "Martin-Sued4"
+    },
+    {
+      "hw-address": "44:D9:E7:78:83:ED",
+      "ip-address": "10.112.64.6",
+      "hostname": "AschenlandRF1"
+    },
+    {
+       "hw-address": "44:D9:E7:78:84:86",
+       "ip-address": "10.112.64.7",
+       "hostname": "AschenlandRF2"
+    },
+    {
+       "hw-address": "44:D9:E7:51:48:CB",
+       "ip-address": "10.112.64.8",
+       "hostname": "AschenlandSW"
+    },
+    {
+       "hw-address": "60:E3:27:72:41:92",
+       "ip-address": "10.112.64.9",
+       "hostname": "AschenlandCPE51"
+    },
+    {
+       "hw-address": "60:E3:27:72:47:9A",
+       "ip-address": "10.112.64.10",
+       "hostname": "AschenlandCPE52"
     }
 ]

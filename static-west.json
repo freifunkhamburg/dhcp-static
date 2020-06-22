@@ -40,26 +40,6 @@
         "hostname": "brachvogel"
     },
     {
-        "hw-address": "44:D9:E7:7A:8E:3B",
-        "ip-address": "10.112.96.14",
-        "hostname": "AschenlandUAP1"
-    },    
-    {
-        "hw-address": "04:18:D6:A8:9F:56",
-        "ip-address": "10.112.96.15",
-        "hostname": "AschenlandUAP2"
-    },    
-    {
-        "hw-address": "44:D9:E7:7A:8B:CE",
-        "ip-address": "10.112.96.16",
-        "hostname": "AschenlandUAP3"
-    },    
-    {
-        "hw-address": "44:D9:E7:7A:8B:5C",
-        "ip-address": "10.112.96.17",
-        "hostname": "AschenlandUAP4"
-    },    
-    {
         "hw-address": "00:24:21:2e:63:f9",
         "ip-address": "10.112.96.21",
         "hostname": "cloud"

@@ -43,5 +43,30 @@
        "hw-address": "60:E3:27:72:47:9A",
        "ip-address": "10.112.64.10",
        "hostname": "AschenlandCPE52"
+    },
+    {
+       "hw-address": "E0:63:DA:14:CF:3E",
+       "ip-address": "10.112.64.11",
+       "hostname": "Neuenfelde-Client-0"
+    },
+    {
+       "hw-address": "E0:63:DA:14:D1:FB",
+       "ip-address": "10.112.64.12",
+       "hostname": "Neuenfelde-Client-1"
+    },
+    {
+       "hw-address": "74:83:C2:90:C3:CD",
+       "ip-address": "10.112.64.13",
+       "hostname": "Neuenfelde-Client-2"
+    },
+    {
+       "hw-address": "E0:63:DA:14:D0:6E",
+       "ip-address": "10.112.64.14",
+       "hostname": "Neuenfelde-Client-3"
+    },
+    {
+       "hw-address": "E0:63:DA:14:D1:0F",
+       "ip-address": "10.112.64.15",
+       "hostname": "Neuenfelde-Uplink"
     }
 ]

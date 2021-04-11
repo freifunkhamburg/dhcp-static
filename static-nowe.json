@@ -1,2 +1,7 @@
 "reservations": [
+        {
+        "hw-address": "f4:ec:38:b0:9b:db",
+        "ip-address": "10.112.192.2",
+        "hostname": "bektas-ap1"
+    }
 ]

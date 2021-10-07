@@ -1,5 +1,10 @@
 "reservations": [
     {
+        "hw-address": "2C:BE:97:00:A4:CD",
+        "ip-address": "10.112.96.2",
+        "hostname": "bb-gleis4a-solar"
+    },
+    {
         "hw-address": "00:e0:4c:36:56:e6",
         "ip-address": "10.112.96.3",
         "hostname": "plateau"

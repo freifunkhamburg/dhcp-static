@@ -1,2 +1,12 @@
 "reservations": [
+    {
+        "hw-address": "00:0d:b9:50:5b:4f",
+        "ip-address": "10.112.224.2",
+        "hostname": "stubnitz-gw"
+    },
+    {
+        "hw-address": "6a:65:4f:dc:86:c9",
+        "ip-address": "10.112.224.3",
+        "hostname": "stubnitz-museum"
+    }
 ]

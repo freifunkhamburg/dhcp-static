@@ -25,16 +25,6 @@
         "hostname": "bb-werkhof-18-cpe5"
     },
     {
-        "hw-address": "24:A4:3C:E6:74:7A",
-        "ip-address": "10.112.96.10",
-        "hostname": "altona-nano-m5"
-    },
-    {
-        "hw-address": "b8:27:eb:23:fc:9b",
-        "ip-address": "10.112.96.11",
-        "hostname": "freipi"
-    },
-    {
         "hw-address": "00:1F:1F:6C:11:18",
         "ip-address": "10.112.96.12",
         "hostname": "igelcam"
@@ -43,11 +33,6 @@
         "hw-address": "B8:27:EB:38:54:E9",
         "ip-address": "10.112.96.13",
         "hostname": "brachvogel"
-    },
-    {
-        "hw-address": "00:24:21:2e:63:f9",
-        "ip-address": "10.112.96.21",
-        "hostname": "cloud"
     },
     {
         "hw-address": "70:85:c2:23:d4:ae",

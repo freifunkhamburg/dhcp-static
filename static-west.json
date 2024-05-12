@@ -25,6 +25,16 @@
         "hostname": "bb-werkhof-18-cpe5"
     },
     {
+        "hw-address": "60:E3:27:B2:D7:5C",
+        "ip-address": "10.112.96.7",
+        "hostname": "bb-gleis4a-Wasch-Fahrradkeller"
+    },
+    {
+        "hw-address": "30:B5:C2:86:3F:CA",
+        "ip-address": "10.112.96.8",
+        "hostname": "bb-gleis4a-Tiefgarage"
+    },
+    {
         "hw-address": "00:1F:1F:6C:11:18",
         "ip-address": "10.112.96.12",
         "hostname": "igelcam"

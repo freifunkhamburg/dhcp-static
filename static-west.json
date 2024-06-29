@@ -35,6 +35,11 @@
         "hostname": "bb-gleis4a-Tiefgarage"
     },
     {
+        "hw-address": "60:e3:27:72:42:ce",
+        "ip-address": "10.112.96.9",
+        "hostname": "bb-gleis4a-park-cpe5"
+    },
+    {
         "hw-address": "00:1F:1F:6C:11:18",
         "ip-address": "10.112.96.12",
         "hostname": "igelcam"

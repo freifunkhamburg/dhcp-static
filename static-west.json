@@ -40,6 +40,11 @@
         "hostname": "bb-gleis4a-park-cpe5"
     },
     {
+        "hw-address": "60:E3:27:CD:5E:2A",
+        "ip-address": "10.112.96.10",
+        "hostname": "bb-gleis4a-wasch-fahrradkeller-cpe5"
+    },
+    {
         "hw-address": "00:1F:1F:6C:11:18",
         "ip-address": "10.112.96.12",
         "hostname": "igelcam"
